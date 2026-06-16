@@ -22,7 +22,7 @@
 
 1. Склонировать репозиторий:
    ```bash
-   git clone <https://github.com/oyumly/pindie-backend/>
+   git clone https://github.com/oyumly/pindie-backend.git
    ```
 2. Установить зависимости:
    ```bash
